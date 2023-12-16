@@ -1,5 +1,7 @@
 {
     "name": "artem6367/hexlet-php",
     "type": "project",
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
